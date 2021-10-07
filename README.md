@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=G46fjVzQ7BQ
 
 code .
 
-38:40
+54:00
 
 powershell run as admin:
  start-process PowerShell -verb runas
